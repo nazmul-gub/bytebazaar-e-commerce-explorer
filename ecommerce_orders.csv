@@ -1,0 +1,61 @@
+OrderLineID,OrderID,OrderDate,CustomerName,City,ProductName,Category,Quantity,UnitPrice_BDT,PaymentMethod,OrderStatus,InternalNote
+1001,ORD-5001,2026-09-02,Imran Hossain,Dhaka,Laptop Stand,Accessories,3,1650,bKash,Shipped,Call before delivery
+1002,ORD-5001,2026-09-28,Tanvir Ahmed,Chattogram,Notebook Pack,Stationery,1,300,Bank Transfer,Returned,—
+1003,ORD-5002,2026-10-16,Nabil Chowdhury,Cumilla,27-inch Monitor,Electronics,2,24500,Cash on Delivery,Shipped,Call before delivery
+1004,ORD-5002,2026-10-19,Maliha Islam,Rajshahi,Wireless Mouse,Accessories,3,850,Card,Pending,Gift wrap
+1005,ORD-5003,2026-09-07,Sabbir Hossain,Khulna,Webcam,Electronics,1,3800,Card,Returned,—
+1006,ORD-5002,2026-10-05,Mehjabin Noor,Rangpur,Phone Charger,Mobile,1,1250,Bank Transfer,Delivered,Promo campaign
+1007,ORD-5004,2026-10-27,Oishee Karim,Khulna,Wireless Earbuds,Audio,3,5600,bKash,Delivered,Gift wrap
+1008,ORD-5004,2026-09-06,Rakib Hasan,Mymensingh,USB Flash Drive 64GB,Storage,3,850,Card,Cancelled,Repeat customer
+1009,ORD-5005,2026-09-11,Imran Hossain,Dhaka,Laptop,Computers,1,78500,bKash,Pending,Call before delivery
+1010,ORD-5005,2026-10-05,Imran Hossain,Dhaka,Portable Speaker,Audio,2,2850,Card,Cancelled,Call before delivery
+1011,ORD-5004,2026-10-24,Sabbir Hossain,Khulna,Webcam,Electronics,3,3250,Cash on Delivery,Pending,Promo campaign
+1012,ORD-5006,2026-10-07,Tanvir Ahmed,Chattogram,27-inch Monitor,Electronics,3,24500,Cash on Delivery,Cancelled,Repeat customer
+1013,ORD-5007,2026-09-09,Nusrat Jahan,Dhaka,SSD 1TB,Storage,1,9800,Bank Transfer,Pending,Repeat customer
+1014,ORD-5007,2026-09-26,Shakib Rahman,Chattogram,Notebook Pack,Stationery,1,350,Bank Transfer,Shipped,Repeat customer
+1015,ORD-5008,2026-10-26,Tanvir Ahmed,Chattogram,Mechanical Keyboard,Accessories,1,3200,Bank Transfer,Cancelled,—
+1016,ORD-5006,2026-10-09,Farhan Kabir,Sylhet,Tablet,Computers,5,28900,bKash,Returned,—
+1017,ORD-5009,2026-10-19,Imran Hossain,Dhaka,Office Chair,Home Office,1,12500,Card,Delivered,Repeat customer
+1018,ORD-5009,2026-09-01,Nusrat Jahan,Dhaka,Phone Charger,Mobile,4,1250,Bank Transfer,Shiped,Gift wrap
+1019,ORD-5010,2026-10-26,Nabil Chowdhury,Cumilla,Laptop Stand,Accessories,2,1650,Bank Transfer,Returned,Gift wrap
+1020,ORD-5010,2026-10-19,Nusrat Jahan,Dhaka,Laptop,Computers,1,78500,bKash,Returned,Call before delivery
+1021,ORD-5007,2026-09-02,Rafi Hasan,Dhaka,Power Bank,Mobile,1,2200,Nagad,Pending,—
+1022,ORD-5011,2026-09-06,Sabbir Hossain,Khulna,Notebook Pack,Stationery,1,350,Bank Transfer,Delivered,Gift wrap
+1023,ORD-5012,2026-10-06,Nusrat Jahan,Dhaka,Power Bank,Mobile,1,2200,Cash on Delivery,Returned,Gift wrap
+1024,ORD-5012,2026-10-19,Shakib Rahman,Chattogram,Office Chair,Home Office,2,12500,Cash on Delivery,Pending,Promo campaign
+1025,ORD-5013,2026-09-29,Sumaiya Akter,Chattogram,Desk Lamp,Home Office,1,1350,bKash,Pending,Call before delivery
+1026,ORD-5009,2026-10-08,Nabil Chowdhury,Cumilla,Wireless Router,Electronics,1,4600,Nagad,Delivered,—
+1027,ORD-5014,2026-10-26,Shakib Rahman,Chattogram,Mechanical Keyboard,Accessories,1,3200,Cash on Delivery,Pending,Gift wrap
+1028,ORD-5014,2026-10-17,Nabil Chowdhury,Cumilla,Bluetooth Headphones,Audio,4,4200,Nagad,Cancelled,Repeat customer
+1029,ORD-5015,2026-09-13,Rakib Hasan,Mymensingh,Smartphone,Mobile,1,36500,Cash on Delivery,Pending,Repeat customer
+1030,ORD-5015,2026-10-14,Sumaiya Akter,Chattogram,Mechanical Keyboard,Accessories,2,3200,Cash on Delivery,Delivered,Promo campaign
+1031,ORD-5011,2026-09-16,Rakib Hasan,Mymensingh,Laptop Stand,Accessories,1,1650,Cash on Delivery,Shipped,Gift wrap
+1032,ORD-5016,2026-09-16,Maliha Islam,Rajshahi,Phone Charger,Mobile,3,1400,bKash,Delivered,Call before delivery
+1033,ORD-5017,2026-09-06,Oishee Karim,Khulna,Wireless Mouse,Accessories,4,850,Cash on Delivery,Shipped,Repeat customer
+1034,ORD-5017,2026-10-26,Sumaiya Akter,Chattogram,27-inch Monitor,Electronics,1,25700,Cash on Delivery,Delivered,Promo campaign
+1035,ORD-5018,2026-09-19,Shakib Rahman,Chattogram,Phone Charger,Mobile,1,1250,Cash on Delivery,Returned,Gift wrap
+1036,ORD-5012,2026-09-14,Sabbir Hossain,dhaka,USB Flash Drive 64GB,Storage,5,850,bKash,Returned,Promo campaign
+1037,ORD-5019,2026-10-08,Ayesha Rahman,Dhaka,Mechanical Keyboard,Accessories,1,3200,Nagad,Returned,—
+1038,ORD-5019,2026-10-25,Nabil Chowdhury,Cumilla,USB-C Hub,Accessories,1,2450,Cash on Delivery,Shipped,—
+1039,ORD-5020,2026-09-16,Shakib Rahman,Chattogram,Notebook Pack,Stationery,2,300,Bank Transfer,Cancelled,Call before delivery
+1040,ORD-5020,2026-09-17,Nabil Chowdhury,Cumilla,Webcam,Electronics,1,3600,Card,Shipped,Repeat customer
+1041,ORD-5014,2026-09-30,Nusrat Jahan,Dhaka,USB Flash Drive 64GB,Storage,1,850,bKash,Delivered,Repeat customer
+1042,ORD-5021,2026-09-07,Tania Sultana,Barishal,Notebook Pack,Stationery,1,350,Nagad,Pending,Promo campaign
+1043,ORD-5022,2026-10-27,Shakib Rahman,Chattogram,USB-C Hub,Accessories,1,2450,Bank Transfer,Cancelled,Promo campaign
+1044,ORD-5022,2026-09-01,Tania Sultana,Barishal,Desk Lamp,Home Office,2,1350,Nagad,Delivered,Promo campaign
+1045,ORD-5023,2026-10-18,Tanvir Ahmed,Chattogram,Laptop Stand,Accessories,2,1650,Nagad,Returned,Promo campaign
+1046,ORD-5016,2026-10-03,Sabbir Hossain,Khulna,SSD 1TB,Storage,2,9800,bKash,Delivered,Repeat customer
+1047,ORD-5024,2026-09-03,Oishee Karim,Khulna,SSD 1TB,Storage,1,9800,Nagad,Pending,Repeat customer
+1048,ORD-5024,2026-10-06,Nabil Chowdhury,Cumilla,Smartphone,Mobile,1,40150,Bank Transfer,Shipped,—
+1049,ORD-5025,2026-10-08,Oishee Karim,Khulna,Laptop,Computers,2,78500,Card,Delivered,Promo campaign
+1050,ORD-5025,2026-10-28,Shakib Rahman,Chattogram,Mechanical Keyboard,Accessories,1,3200,Card,Delivered,Call before delivery
+1051,ORD-5017,2026-10-10,Shakib Rahman,Chattogram,Smartphone,Mobile,3,36500,Nagad,Shipped,Gift wrap
+1052,ORD-5026,2026-09-02,Shakib Rahman,Chattogram,Smartphone,Mobile,1,36500,Nagad,Cancelled,Promo campaign
+1053,ORD-5027,2026-09-25,Nusrat Jahan,Dhaka,Laptop Stand,Accessories,3,1650,Nagad,Shipped,Repeat customer
+1054,ORD-5027,2026-10-23,Rafi Hasan,Dhaka,USB Flash Drive 64GB,Storage,3,850,Nagad,Delivered,Repeat customer
+1055,ORD-5028,2026-10-26,Rafi Hasan,Dhaka,SSD 1TB,Storage,1,9800,Bank Transfer,Pending,Repeat customer
+1056,ORD-5019,2026-09-22,Imran Hossain,Dhaka,Office Chair,Home Office,4,13100,Bank Transfer,Shipped,Promo campaign
+1057,ORD-5029,2026-10-09,Ayesha Rahman,Dhaka,Laptop Stand,Accessories,1,1650,Cash on Delivery,Pending,Call before delivery
+1058,ORD-5029,2026-09-25,Nabil Chowdhury,Cumilla,Laptop Stand,Accessories,4,1650,Cash on Delivery,Delivered,—
+1059,ORD-5030,2026-10-14,Nabil Chowdhury,Cumilla,Office Chair,Home Office,2,12500,Card,Shipped,Repeat customer
+1060,ORD-5030,2026-10-10,Tanvir Ahmed,Chattogram,Webcam,Electronics,1,3600,Bank Transfer,Pending,Promo campaign
